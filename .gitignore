@@ -1,0 +1,19 @@
+# Dependencies
+node_modules/
+
+# Android Build & Gradle caches
+android/.gradle/
+android/build/
+android/app/build/
+android/captures/
+android/.idea/
+android/*.iml
+android/local.properties
+
+# Android Keystores & Signing Secrets
+*.jks
+*.keystore
+
+# System & OS temp files
+.DS_Store
+Thumbs.db
