@@ -1,1 +1,2 @@
 www/css/** linguist-vendored
+*.html linguist-detectable=false
